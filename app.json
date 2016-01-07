@@ -1,0 +1,10 @@
+{
+  "name": "heroku_pipeline_demo",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
